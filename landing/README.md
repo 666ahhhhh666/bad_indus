@@ -15,7 +15,7 @@ README Лендинг для детских курсов программиро�
 Анимации и эффекты переходов
 
 Ссылка на макет Figma
-Kids Course Landingpage
+https://www.figma.com/design/j6GPPkWEXHiFwGLhNQ6EVX/Kids-Course-Landingpage--Community-?node-id=0-1&t=DUjGMMYrAKDdtGFv-0
 
 Технологии
 HTML5 (семантическая верстка)
@@ -102,7 +102,7 @@ Semantic HTML markup
 Animations and transition effects
 
 Figma Design Link
-Kids Course Landingpage
+https://www.figma.com/design/j6GPPkWEXHiFwGLhNQ6EVX/Kids-Course-Landingpage--Community-?node-id=0-1&t=DUjGMMYrAKDdtGFv-0
 
 Technologies
 HTML5 (semantic markup)
